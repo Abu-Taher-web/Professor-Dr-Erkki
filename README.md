@@ -1,2 +1,3 @@
-# Professor Dr Erkki
- This is a learning diary to keep track of my progess. 
+## Date: 09.04.25
+
+
