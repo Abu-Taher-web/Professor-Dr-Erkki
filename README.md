@@ -68,7 +68,8 @@ In this paper, the author performed many tests and measurements on a private 5G 
 - There are multiple times when the author claimed that his experimental value is within the acceptable range, but he failed to mention the acceptable value.
 - What does it mean to run the video on a network?
 
-
+## Date: 11.04.25
+### Title: 
 
 
 
